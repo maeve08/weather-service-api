@@ -1,0 +1,12 @@
+package au.company;
+
+import org.junit.Test;
+
+import static org.junit.Assert.*;
+
+public class WeatherControllerTest {
+
+    @Test
+    public void getTemperaturePerCity() {
+    }
+}
